@@ -7,6 +7,13 @@ The landing page is designed to promote **Web Developer Internship opportunities
 
 ---
 
+## 🚀 Live Demo
+
+https://vishrudha18.github.io/Cognifyz-Task-4-Landingpage/
+
+---
+
+
 ## 🎯 Objective
 - Design a professional internship landing page  
 - Clearly communicate internship information  
@@ -48,6 +55,12 @@ Task-4/
 3. Open `index.html` in any modern browser  
 
 No additional setup required.
+
+---
+
+## Video
+
+https://github.com/user-attachments/assets/d61d32a5-6a3d-44e0-8407-5744b185d848
 
 ---
 
